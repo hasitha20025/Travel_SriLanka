@@ -688,3 +688,38 @@ header .search-bar-container label:hover{
   }
 
 }
+
+/* 
+-------------------mystyle.css-----------------
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Open+Sans&display=swap');
+
+h1 {
+  text-align: center;
+  font-size: 40px;
+  color: #ffa500;
+}
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+  color: #ffa500;
+}
+
+.paragrahs{
+  font-family: 'Nunito', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  margin-left:150px;
+  margin-right:150px;
+  text-align:justify;
+  
+}
+
+iframe{margin-left:35%;}
+
+li{margin-left:200px;
+  font-size: 20px;
+
+}
